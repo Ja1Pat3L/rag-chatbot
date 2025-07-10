@@ -30,13 +30,13 @@ uvicorn app.api:app --reload
 - "What benefits are offered to employees?"
 - "Summarize the hiring process."
 
-##  Notes
+## Notes
 - Ensure OpenAI API key is set in environment:
 ```
 export OPENAI_API_KEY=your_key_here
 ```
 
-## 📂 Structure
+## Structure
 - `app/`: Core logic
 - `data/`: Documents
 - `vectorstore/`: Stored ChromaDB index
