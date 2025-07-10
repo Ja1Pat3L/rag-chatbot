@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+PyMuPDF
+python-docx
+openai
+fastapi
+uvicorn
